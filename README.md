@@ -2,6 +2,16 @@
 
 This project explores unsupervised learning and dimensionality reduction techniques, with a focus on practical applications.
 
+## Installation
+
+Install all required dependencies:
+
+```bash
+pip3 install -r requirements.txt
+```
+
+Run the notebook or Python scripts after installing the dependencies.
+
 ## What was done
 
 * Built a **sparse user–book interaction matrix** from the Book Recommendation dataset.
